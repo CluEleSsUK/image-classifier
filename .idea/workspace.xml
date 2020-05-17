@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24dedc2-4498-45c8-9dae-45e5bcaffd5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileUpload.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageClassifier.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TensorflowProvider.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageClassifier.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageClassifier.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +66,7 @@
       <workItem from="1587217892206" duration="558000" />
       <workItem from="1587798949073" duration="4164000" />
       <workItem from="1589666960635" duration="147000" />
-      <workItem from="1589667111395" duration="2989000" />
+      <workItem from="1589667111395" duration="3528000" />
     </task>
     <servers />
   </component>
@@ -95,13 +86,15 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="510" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.949@0.23.1680.949" timestamp="1587217892199" />
-    <state x="494" y="254" width="692" height="486" key="find.popup" timestamp="1587892865701">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state x="494" y="254" width="692" height="487" key="find.popup" timestamp="1589670398843">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="494" y="254" width="692" height="486" key="find.popup/0.23.1680.949@0.23.1680.949" timestamp="1587892865701" />
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1587890751018">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state x="494" y="254" width="692" height="487" key="find.popup/0.23.1680.950@0.23.1680.950" timestamp="1589670398843" />
+    <state x="505" y="231" width="670" height="677" key="search.everywhere.popup" timestamp="1589670385827">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1587890751018" />
+    <state x="505" y="231" width="670" height="677" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1589670385827" />
   </component>
 </project>

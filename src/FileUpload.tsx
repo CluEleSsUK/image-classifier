@@ -3,7 +3,7 @@ import React, { useState } from "react"
 interface FileUploadProps {
   label?: string
   buttonLabel?: string
-  onComplete: (imageData: String) => any
+  onComplete: (imageData: string) => Promise<void>
 }
 
 const FileUpload = (props: FileUploadProps) => {

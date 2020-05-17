@@ -13,7 +13,7 @@ const ImageClassifier = (props: ImageClassifierProps) => {
     return <p>...loading</p>
   }
 
-  const classifyImage = async (imageData: string) => {
+  const classifyImage = async (imageData: string): Promise<void> => {
     if (props.client == null) {
       setResult("There was an error initialising the client!")
     }
@@ -38,7 +38,7 @@ const ImageClassifier = (props: ImageClassifierProps) => {
         onComplete={classifyImage}
       />
 
-      {lastImage && <img src={lastImage} />}
+      {lastImage && <img src={lastImage} alt={"Last"} />}
       {result}
     </div>
   )
